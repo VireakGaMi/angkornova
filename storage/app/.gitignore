@@ -1,4 +1,6 @@
-# *
+*
 !private/
-# !public/
+!public/
+!public/img/logo.png
+!public/img/logo-no-bg.png
 !.gitignore
